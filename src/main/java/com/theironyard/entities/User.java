@@ -1,7 +1,4 @@
 package com.theironyard.entities;
-
-import com.sun.tools.javac.util.List;
-
 import javax.persistence.*;
 
 /**
